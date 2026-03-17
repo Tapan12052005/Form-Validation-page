@@ -1,7 +1,5 @@
 # Form Validation Page
 
-Simple web form with front-end validation using JavaScript.
-
 **Technologies:** HTML, CSS, JavaScript
 
 **Description:**  
